@@ -1,0 +1,24 @@
+/*
+    Escreva uma função recursiva para imprimir um vetor:
+
+    Na mesma ordem em que foi criado;
+    Ao contrário.
+*/
+
+#include <stdio.h>
+#include <stdlib.h>
+
+void imprime_recursiva(int vet[], int tam){
+    int n = 0;
+
+}
+
+void imprime_inverso_recursiva(int vet[], int tam){
+
+}
+
+int main(void){
+    int vet[5] = {1,2,3,4,5};
+
+    return 0;
+}
